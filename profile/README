@@ -1,1 +1,3 @@
-# NeuroBench
+NeuroBench is an ongoing community effort towards defining benchmarks for neuromorphic algorithms and systems. 
+
+Benchmarks are currently under construction and a public release of a benchmark harness and leaderboard for the algorithms track is end of Q2 2023, and for the systems track is end of Q4 2023. For more information, please see our website linked above, though which you can find our preprint paper and stay updated by joining the mailing list.
